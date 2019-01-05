@@ -1,0 +1,10 @@
+module.exports.CONNECTION_LIMIT = 1000;
+module.exports.HOST = "myrdsinstance.cyjwfffmc8lg.us-west-2.rds.amazonaws.com";
+module.exports.USER = "sjsurootuser";
+module.exports.PASSWORD = "amazonrdsshubham";
+module.exports.DATABASE = "User";
+module.exports.PORT = 8000;
+module.exports.awsS3Key = "";
+module.exports.awsS3Id = "";
+module.exports.awsS3Region = "us-west-2";
+module.exports.ResumesBucket = "cmpe272proverbucket";
